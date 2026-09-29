@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://SnakeIDDKGame.com/sitemap.xml
-
-google.com, pub-3831686085208006, DIRECT, f08c47fec0942fa0
